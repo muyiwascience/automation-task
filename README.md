@@ -22,7 +22,7 @@ To run the automation tests, make sure you have the following dependencies insta
 - Maven
 
 ## Running the Tests
-cd into directory: rover
+cd into directory: automation-task
 run this  in the command line
 
 ```bash
@@ -34,7 +34,7 @@ src/test/resources/rover.features/rover.feature
 
 
 ## Test Outputs
-rover-test/rover/reports/cucumber/cucmberTestReport-html/index.html
+reports/cucumber/cucmberTestReport-html/index.html
 
 
 
